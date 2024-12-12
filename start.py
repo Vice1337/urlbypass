@@ -7,7 +7,7 @@ import json
 DISCORD_TOKEN = "token"
 API_KEY = "your api key here"
 UPLOAD_URL = "https://api.fivemanage.com/api/image"
-TARGET_CHANNEL_ID = 1316113651270418532
+TARGET_CHANNEL_ID = "channel id"
 
 # bot setup
 intents = discord.Intents.default()
